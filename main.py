@@ -1,5 +1,5 @@
 """
-This is code aimed to help students in COMP 151 Spring 2024.
+This is code aimed to help students in COMP 151 Spring 2025.
 
 Venture through the files and run through the code and mess with it and see what happens.
 
